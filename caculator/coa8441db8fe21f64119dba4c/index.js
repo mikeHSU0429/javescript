@@ -5,6 +5,7 @@ let guestPoint = document.getElementById("guestPoint")
 
 function addOneH(){
       
+        
         a+=1
         homePoint.textContent=a
 }
